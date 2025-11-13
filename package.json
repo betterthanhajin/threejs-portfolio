@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/betterthanhajin/threejs-portfolio#readme",
   "dependencies": {
+    "gsap": "^3.13.0",
     "three": "^0.181.0"
   },
   "devDependencies": {
